@@ -35,6 +35,5 @@ Therefore here's a copy if it should not be integrated into the IRremote library
 Here the reference to the Github Repository of the IRremote library with the hint to the installation:
 https://github.com/z3t0/Arduino-IRremote
 
-A) Move the "IRremote" folder that has been extracted to your libraries directory.
-
-B) Make sure to delete Arduino_Root/libraries/RobotIRremote. Where Arduino_Root refers to the install directory of Arduino. The library RobotIRremote has similar definitions to IRremote and causes errors.
+- Move the "IRremote" folder that has been extracted to your libraries directory.
+- Make sure to delete Arduino_Root/libraries/RobotIRremote. Where Arduino_Root refers to the install directory of Arduino. The library RobotIRremote has similar definitions to IRremote and causes errors.
