@@ -10,8 +10,10 @@ Compatibility
 - A500, A1000, A2000, A3000(T), A4000(T), A1200, CD32 (supported in current firmware 1.0)
 - A600: problematic for mechanical reasons. Extension cable recommended (supported in current firmware 1.0)
 - CD32: Control pad + Button-A works. Button-B/-C/-D follows in next firmware revision (1.1)
-- C64: Follows in next but one firmware revision (1.2)
-- Atari: Follows in next but one firmware revision (1.3)
+- C64: TODO -> firmware revision (1.2)
+- Atari: TODO -> firmware revision (1.3)
+
+Current firmware revision: 1.1
 
 I could test the range up to 8m and didn't notice any difference to 10cm. However, bright daylight can lead to functional impairments, as daylight has a high infrared component.
 
