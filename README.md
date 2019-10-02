@@ -2,8 +2,8 @@
 
 The adapter is simply plugged into the mouse or joystick port and off you go. The current is drawn directly from the Amiga (approx. 15mA, the joystick port supplies up to 100mA according to Commodore) and therefore no external power supply is needed. The functionality is equivalent to conventional Amiga mice or joysticks. Switching between mouse and joystick is easy with the slide switch on the CDTV remote control.
 
-Demo Mouse Functionality: https://www.youtube.com/watch?v=qpLgwaQoD8I&feature=youtu.be
-Demo Joystick Functionality: https://www.youtube.com/watch?v=gpVF-gsmB1M&feature=youtu.be
+- Demo Mouse Functionality: https://www.youtube.com/watch?v=qpLgwaQoD8I&feature=youtu.be
+- Demo Joystick Functionality: https://www.youtube.com/watch?v=gpVF-gsmB1M&feature=youtu.be
 
 Compatibility
 
