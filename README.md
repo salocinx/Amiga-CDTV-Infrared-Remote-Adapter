@@ -17,14 +17,14 @@ I could test the range up to 8m and didn't notice any difference to 10cm. Howeve
 
 The hardware will probably not change. The new firmware versions can easily be reinstalled via USB (Windows or Linux computer required).
 
-If you want to build the adapter yourself, here are all my project files, from the 3D model for the case, to the piggyback board design, the firmware written by me and CDTV infrared protocol implementation.
+If you want to build the adapter yourself, you find all project files in this repository, from the 3D model for the housing, to the piggyback board design, the firmware for the Arduino Nano and CDTV infrared protocol implementation.
 
-- CDTV Adaptor PCB (Eagle CAD): http://nicolas.baumgardt.ch/amiga/cdtv/public/CDTV_Eagle.zip
-- CDTV Adaptor Part List (BOM): http://nicolas.baumgardt.ch/amiga/cdtv/public/CDTV_Partlist.zip
-- CDTV Infrared Protocol Implementation (Arduino Library): http://nicolas.baumgardt.ch/amiga/cdtv/public/IRremote.zip
-- CDTV Adapter Firmware 1.0.1 (Arduino Sketch): http://nicolas.baumgardt.ch/amiga/cdtv/public/CDTV_Firmware_101.zip
-- 3D Housing Model for 3D Printing (STL File): http://nicolas.baumgardt.ch/amiga/cdtv/public/CDTV_Model_3D_STL.zip
-- 3D Housing Model für MoI (Moments of Interest): http://nicolas.baumgardt.ch/amiga/cdtv/public/CDTV_Model_3D.zip
+- CDTV Adaptor PCB (Eagle CAD)
+- CDTV Adaptor Part List (BOM)
+- CDTV Infrared Protocol Implementation (Arduino Library)
+- CDTV Adapter Firmware 1.0.1 (Arduino Sketch)
+- 3D Housing Model for 3D Printing (STL File)
+- 3D Housing Model für MoI (Moments of Interest)
 
 Here still an important info for self builders:
 
